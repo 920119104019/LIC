@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 this is txt document
 
 
@@ -8,3 +9,9 @@ BCUSC,Z
 CNSAJCC/SCS
 ZCSJA,CB.CJ
 IUCBH
+=======
+HASHSCASJCJASC
+ZzcnXC
+ZMCAHC
+CSAJC
+>>>>>>> 3f16204404a426eb69e149ee36e186c9322f4147
